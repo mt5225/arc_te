@@ -1,0 +1,883 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"password"
+			],
+			[
+				"K",
+				"Kirkland核桃仁"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"tas",
+				"task_id"
+			],
+			[
+				"ex",
+				"external"
+			],
+			[
+				"Pre",
+				"preview"
+			],
+			[
+				"vis",
+				"Visual"
+			],
+			[
+				"V",
+				"Visible"
+			],
+			[
+				"M",
+				"Management"
+			],
+			[
+				"Buil",
+				"Builder"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"pro",
+				"product-text"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"color",
+				"id-color"
+			],
+			[
+				"col-md",
+				"col-md-offset-2"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"no",
+				"no-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"col",
+				"col-md-offset-1"
+			],
+			[
+				"of",
+				"col-md-offset-1"
+			],
+			[
+				"off",
+				"col-md-offset-3"
+			],
+			[
+				"cro",
+				"corp_logo"
+			],
+			[
+				"ca",
+				"carbinets"
+			],
+			[
+				"min",
+				"Minutes"
+			],
+			[
+				"dc",
+				"dc_samples"
+			],
+			[
+				"about",
+				"abouttext"
+			],
+			[
+				"tet",
+				"text-left"
+			],
+			[
+				"text",
+				"text-left"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"btn",
+				"btn-big"
+			],
+			[
+				"ana",
+				"google-analytics"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-left"
+			],
+			[
+				"a",
+				"after"
+			],
+			[
+				"logo",
+				"logo_hp"
+			],
+			[
+				"bt",
+				"btn-border"
+			],
+			[
+				"post",
+				"post-text"
+			],
+			[
+				"Co",
+				"Collaboration"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"btn-",
+				"btn-text"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"n",
+				"nbsp"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"datace",
+				"datacenter"
+			],
+			[
+				"id",
+				"id-color"
+			],
+			[
+				"fa",
+				"fa-envelope-o"
+			],
+			[
+				"msg",
+				"msgBody"
+			],
+			[
+				"vie",
+				"view"
+			],
+			[
+				"wee",
+				"weeks"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"营",
+				"营主故事"
+			],
+			[
+				"sin",
+				"signin"
+			],
+			[
+				"d",
+				"display_id"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"or",
+				"orderId"
+			],
+			[
+				"not",
+				"notify"
+			],
+			[
+				"o",
+				"orderId"
+			],
+			[
+				"tri",
+				"tribeName"
+			],
+			[
+				"ow",
+				"owner_pic_list"
+			],
+			[
+				"fac",
+				"facpic"
+			],
+			[
+				"hou",
+				"house"
+			],
+			[
+				"l",
+				"log	log"
+			],
+			[
+				"to",
+				"totalPrice"
+			],
+			[
+				"ng",
+				"ng-class"
+			],
+			[
+				"hous",
+				"houseId"
+			],
+			[
+				"up",
+				"upsert"
+			],
+			[
+				"ch",
+				"checkOutDay"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"house",
+				"houses"
+			],
+			[
+				"user",
+				"user_service"
+			],
+			[
+				"frui",
+				"fruitName"
+			],
+			[
+				"st-",
+				"st-sort"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"h",
+				"hop"
+			],
+			[
+				"day",
+				"dayStr"
+			],
+			[
+				"fir",
+				"firstDayOfMonth"
+			],
+			[
+				"week",
+				"weekArray"
+			],
+			[
+				"order",
+				"orderId"
+			],
+			[
+				"upload",
+				"upload-web"
+			],
+			[
+				"pr",
+				"production"
+			],
+			[
+				"v",
+				"vars"
+			],
+			[
+				"sc",
+				"dopbcp_schedule"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"qu",
+				"queryObject"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"open",
+				"openid"
+			],
+			[
+				"tr",
+				"trimmedMessage"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"acc",
+				"accesskey"
+			],
+			[
+				"A",
+				"accessToken"
+			],
+			[
+				"get",
+				"getChannels"
+			],
+			[
+				"S",
+				"Slackbot"
+			],
+			[
+				"sl",
+				"slackbot"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"for",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"coffee",
+				"Preferences: Better CoffeeScript Settings – Default"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mt5225/Projects/playground/celery_test/tasks.py",
+		"/Users/mt5225/Downloads/momoda_api_2015_12_29_en/document.html",
+		"/Users/mt5225/Projects/playground/celery_test/activiti.cfg.xml",
+		"/Users/mt5225/Projects/playground/celery_test/flow1.xml",
+		"/Users/mt5225/Projects/playground/celery_test/backends.py",
+		"/Users/mt5225/Desktop/[年货干果零食屯起来]",
+		"/Users/mt5225/Projects/playground/flowerconfig.py",
+		"/Users/mt5225/Projects/playground/celery_test/celery.py",
+		"/Users/mt5225/Projects/playground/celery_test/flowerconfig.py",
+		"/Users/mt5225/Projects/playground/celery_test/pe/CallProcess.java",
+		"/Users/mt5225/Projects/playground/celery_test/pe/RunTask.java",
+		"/Users/mt5225/Projects/playground/celery_test/test/sshtest.py",
+		"/Users/mt5225/Projects/playground/celery_test/test/snmpget.sh",
+		"/Users/mt5225/Projects/playground/celery_test/test/snmpwalk_pub.py",
+		"/Users/mt5225/Downloads/jerry_process_t001.bpmn20.xml",
+		"/Users/mt5225/Downloads/flow1.bpmn20.xml",
+		"/Users/mt5225/Projects/playground/celery_test/CallProcess.java",
+		"/Users/mt5225/Projects/playground/celery_test/RunTask.java",
+		"/Users/mt5225/Desktop/finance_report.xml",
+		"/Users/mt5225/Desktop/finance_report.bpmn.xml",
+		"/Users/mt5225/Projects/playground/celery_test/celeryconfig.py",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/wiring.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/index.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/ita.html",
+		"/Users/mt5225/Desktop/out.xml",
+		"/Users/mt5225/Desktop/calc.py",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/dcv.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/dcb.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/homepage-parallax.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/css/custom-style.css",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/about.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/js/designesia.js",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/backup_seg.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/homepage-rev-slider.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/css/style.css",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/css/prettyPhoto.css",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/js/jquery.prettyPhoto.js",
+		"/Users/mt5225/Downloads/crm3.csv",
+		"/Users/mt5225/Desktop/conf",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/.gitignore",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/js/umodel.js",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/homepage-rev-slider-dark.html",
+		"/Users/mt5225/Documents/uinnova/en/website_en/porto/HTML/index-2.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/uBuilderWebPlayer.html",
+		"/Users/mt5225/Desktop/note",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/js/jquery.ui.totop.js",
+		"/Users/mt5225/Desktop/wp_accounts.txt",
+		"/Users/mt5225/Downloads/brazil.json",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/footer.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/backup/dcb.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/backup/dcv.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/backup/index.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/backup/ita.html",
+		"/Users/mt5225/Documents/uinnova/en/website_en/Cubic 2/Cubic HTML/index.html",
+		"/Users/mt5225/Downloads/bootstrap-3.3.5-dist/css/bootstrap.css.map",
+		"/Users/mt5225/Documents/uinnova/en/website_en/Cubic 2/Cubic HTML/js/designesia.js",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/homepage-parallax-dark.html",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/css/bootstrap.css",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/fonts/elegant_font/._Licensing",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/fonts/._font-awesome",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/js/jquery.min.js",
+		"/Users/mt5225/Downloads/uDCB_export.json",
+		"/Users/mt5225/Downloads/uDCB_export (1).json",
+		"/Users/mt5225/Downloads/uDCB_export (2).json",
+		"/Users/mt5225/Downloads/uDCB_export (28).json",
+		"/Users/mt5225/Downloads/uDCB_export (27).json",
+		"/Users/mt5225/Downloads/uDCB_export (23).json",
+		"/Users/mt5225/Downloads/uDCB_export (14).json",
+		"/Users/mt5225/Downloads/uDCB_export (11).json",
+		"/Users/mt5225/Downloads/uDCB_export (9).json",
+		"/Users/mt5225/Downloads/uDCB_export (10).json",
+		"/Users/mt5225/Downloads/uDCB_export (8).json",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/js/js.cookie.js",
+		"/Users/mt5225/Downloads/export (1).json",
+		"/Users/mt5225/Desktop/myeclipse.copy.app/Contents/Info.plist",
+		"/Volumes/SharedFolders/BundleLib.json",
+		"/Users/mt5225/Downloads/export.json",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/coffee/reg2.coffee",
+		"/Applications/MyEclipse/MyEclipse 10.app/Contents/Profile/myeclipse.app/Contents/Info.plist",
+		"/Users/mt5225/Desktop/op-log",
+		"/Users/mt5225/Desktop/log",
+		"/Users/mt5225/Downloads/export (2).json",
+		"/Users/mt5225/Downloads/export (14).json",
+		"/Users/mt5225/Downloads/export (8).json",
+		"/Users/mt5225/Downloads/export (7).json",
+		"/Users/mt5225/Downloads/export (5).json",
+		"/Users/mt5225/Downloads/export (4).json",
+		"/Users/mt5225/Desktop/export (1).json",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/css/._animate.css",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/images/background/._bg-1.jpg",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/images/._.DS_Store",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/images/testi_pic (2).jpg",
+		"/Users/mt5225/Projects/perfectlifebeta/perfectlife/app/reg2.coffee",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/ubuilder-0.4.545.unity3d",
+		"/Users/mt5225/Projects/corpwebsite/dcv_en_web/project-details-slider.html",
+		"/Users/mt5225/Projects/sublimeprojects/corpwebsite/dcv_en_web/index.html",
+		"/Users/mt5225/Projects/sublimeprojects/corpwebsite/dcv_en_web/uBuilderWebPlayer.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/html/views/ordereditor.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/gulpfile.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/app.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/html/views/login.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/orders.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/login.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/bower.json",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/html/views/users.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/html/views/orders.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/html/views/surveys.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/html/views/available.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/config.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/dashboard.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/html/views/dashboard.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/mngtconsole.log",
+		"/Users/mt5225/Desktop/ui_accounts.txt",
+		"/Users/mt5225/Downloads/en.js",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/config/logger.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/survey.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/server.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/html/views/usereditor.html",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/users.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/houses.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/services/global.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/services/service.survey.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/services/service.available.coffee",
+		"/Users/mt5225/Desktop/bama_setting.txt",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/components/md5.min.js",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/main.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/available.coffee",
+		"/Users/mt5225/Projects/perfectlifebeta/mngtconsole/app/scripts/controllers/cal.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"]",
+			"［",
+			"[",
+			"/袋",
+			"】",
+			"【",
+			"sid-8DF4D667-E2AF-4BD5-BA64-CFF85CD44288",
+			"dk-",
+			"Cabinet",
+			"3d datacenter",
+			"uinnova.com/app",
+			"app",
+			"pp_content",
+			"380px",
+			"pp_contain",
+			"prettyPhoto",
+			"prettyPhoto[gallery]",
+			"logo-2",
+			"no-bottom",
+			"no-bottom ",
+			"section-product",
+			"how it works",
+			"service",
+			"how it works",
+			"1465982617041134",
+			"carbinets",
+			"data-type=\"prettyPhoto[gallery]\"",
+			"data-type=\"prettyPhoto[gallery]",
+			"view all",
+			"technologe",
+			"http://www.uinnova.com:4567",
+			"http://www.uinnova.com:4567/categories",
+			"we",
+			"our datacenter",
+			"our",
+			"download",
+			"726",
+			"downloads",
+			"1,",
+			"usm",
+			"/usm/api",
+			"Google Analytics",
+			"how-it",
+			":8080",
+			"54.186.219.119",
+			"United States of American",
+			"info@uinnova.com",
+			".btn:hover",
+			".a.btn:hover",
+			"btn:hover",
+			"more",
+			"how it",
+			"how it works",
+			"product",
+			"view all works",
+			"text",
+			"post-text",
+			"de_count",
+			"de-video-content",
+			"text-intro",
+			"in 5 ",
+			"resource",
+			"2016",
+			"white",
+			"resources",
+			"first",
+			"the world",
+			"dcv",
+			"patch release",
+			"esign",
+			"scrollTop: jQuery",
+			"                                \n",
+			"submenu",
+			"sub-menu",
+			"mainmenu",
+			"dropdown",
+			"fun-facts",
+			"/*",
+			"fun-facts",
+			"products",
+			"list",
+			"how it wor",
+			"how it worls",
+			"5431",
+			"http://54.186.219.119:5431/login",
+			"login",
+			"build online",
+			"CLSID",
+			"cookie",
+			"logo-1",
+			"logo-2",
+			"header-bg",
+			"OPENID",
+			"signup new management user",
+			"check availability for",
+			"预定",
+			"支付成功",
+			"':'",
+			"冒号",
+			":",
+			"findOne",
+			"\">\n",
+			"white",
+			"scripts",
+			"bower",
+			"<a href=\"#!\" class=\"secondary-content\"></a>",
+			"<i class=\"material-icons\">send</i>",
+			"Alvin<a href=\"#!\" class=\"secondary-content\">send</i></a>",
+			"<i class=\"material-icons\">",
+			"th",
+			"houseName",
+			"images",
+			"_public",
+			"images",
+			"imange",
+			"sprite-retina",
+			"house",
+			"MngtUsername",
+			"cb",
+			"user",
+			"User",
+			"^1.3.0",
+			"~1.2.16",
+			" \n",
+			"www.mt5225.cc",
+			"mt5225",
+			"@slack"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"】",
+			"【",
+			"［",
+			"",
+			"]",
+			"[",
+			"cabinets",
+			"",
+			"technology",
+			"http://uinnova.com/app",
+			"http://uinnova.com/app/",
+			"http://uinnova.com/app/categories",
+			"",
+			"www.uinnova.com",
+			"U.S.A.",
+			"info_us@uinnova.com",
+			"2015",
+			"4567",
+			"http://54.186.219.119:5431/categories",
+			"','",
+			"逗号",
+			",",
+			"black",
+			"",
+			"p",
+			"assets",
+			"order",
+			"callback",
+			"mngtuser",
+			"MngtUser",
+			"^1.3.5",
+			"qa.aghchina.com.cn",
+			"slack"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/mt5225/Projects/uinnova/momoda_api_en/javascripts/mmd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true
+}
