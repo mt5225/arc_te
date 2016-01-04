@@ -2,6 +2,17 @@ from __future__ import absolute_import
 from celery.backends import mongodb
 from celery import states
 from datetime import datetime
+import json
+import urllib2
+
+__FLOWER_URL__ = "http://localhost:5555/api/task/info/"
+
+
+def merge_two_dicts(x, y):
+    '''Given two dicts, merge them into a new dict as a shallow copy.'''
+    z = x.copy()
+    z.update(y)
+    return z
 
 
 class CustomMongoBackend(mongodb.MongoBackend):
@@ -11,13 +22,15 @@ class CustomMongoBackend(mongodb.MongoBackend):
     def _store_result(self, task_id, result, status,
                       traceback=None, request=None, **kwargs):
         """Store return value and status of an executed task."""
+        data = json.load(urllib2.urlopen(__FLOWER_URL__ + task_id))  # get more details from flower
         meta = {'_id': task_id,
                 'status': status,
                 'result': result,
                 'date_done': datetime.utcnow(),
                 'task': request.task
                 }
-        self.collection.save(meta)
+        record = merge_two_dicts(meta, data)
+        self.collection.save(record)
         return result
 
     def _save_group(self, group_id, result):
