@@ -11,7 +11,7 @@ def run(*args):
     username = args[2]
     password = args[3]
     commamd = args[4].split()
-    timeout = args[5]
+    timeout = 30000
     shell = spur.SshShell(
         hostname=hostname,
         port=int(port),
