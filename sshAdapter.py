@@ -5,21 +5,15 @@ import spur.ssh
 
 
 @app.task
-def run(*args):
-    hostname = args[0]
-    port = args[1]
-    username = args[2]
-    password = args[3]
-    command = args[4].split()
-    timeout = 30000
+def run(**kwargs):
     shell = spur.SshShell(
-        hostname=hostname,
-        port=int(port),
-        username=username,
-        password=password,
-        connect_timeout=timeout,
+        hostname=kwargs['hostname'],
+        port=int(kwargs['port']),
+        username=kwargs['username'],
+        password=kwargs['password'],
+        connect_timeout=kwargs['timeout'],
         missing_host_key=spur.ssh.MissingHostKey.accept
     )
     with shell:
-        result = shell.run(command)
+        result = shell.run(kwargs['command'].split())
         return result.output
