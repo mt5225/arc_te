@@ -17,18 +17,19 @@ class CustomMongoBackend(mongodb.MongoBackend):
                       traceback=None, request=None, **kwargs):
         """Store return value and status of an executed task."""
         data = json.load(urllib2.urlopen(__FLOWER_URL__ + task_id))  # get more details from flower
-        meta = {'_id': task_id,
-                'status': status,
-                'result': result,
-                'date_done': time.time() + time.clock(),
-                'task': request.task,
-                'received': data['received'],
-                'started': data['started'],
-                'args': data['args'],
-                'kwargs': data['kwargs'],
-                'retries': data['retries'],
-                'worker': data['retries']
-                }
+        meta = {
+            '_id': task_id,
+            'status': status,
+            'result': str(result),  # convert to string if result is an exception
+            'date_done': time.time() + time.clock(),
+            'task': request.task,
+            'received': data['received'],
+            'started': data['started'],
+            'args': data['args'],
+            'kwargs': data['kwargs'],
+            'retries': data['retries'],
+            'worker': data['retries']
+        }
         self.collection.save(meta)
         return result
 

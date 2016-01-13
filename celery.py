@@ -5,7 +5,7 @@ from celery import Celery
 app = Celery('arc_te',
              broker='amqp://',
              backend='amqp://',
-             include=['arc_te.sshAdapter', 'arc_te.wsAdapter', 'arc_te.commandlineAdapter', 'arc_te.snmpGetAdapter', 'arc_te.taskAdd', 'arc_te.taskAddScheduler', 'arc_te.HPSAAdapter'])
+             include=['arc_te.sshAdapter', 'arc_te.wsAdapter', 'arc_te.commandlineAdapter', 'arc_te.snmpGetAdapter', 'arc_te.taskAdd', 'arc_te.HPSAAdapter'])
 
 
 # setting for celery engine
