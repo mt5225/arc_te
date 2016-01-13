@@ -10,7 +10,7 @@ def run(*args):
     port = args[1]
     username = args[2]
     password = args[3]
-    commamd = args[4].split()
+    command = args[4].split()
     timeout = 30000
     shell = spur.SshShell(
         hostname=hostname,
@@ -21,5 +21,5 @@ def run(*args):
         missing_host_key=spur.ssh.MissingHostKey.accept
     )
     with shell:
-        result = shell.run(commamd)
+        result = shell.run(command)
         return result.output

@@ -15,6 +15,7 @@ def run(**kwargs):
         missing_host_key=spur.ssh.MissingHostKey.accept
     )
     with shell:
-        commamd = "/opsw/bin/rosh -l %s -n %s %s" % (kwargs['target_username'], kwargs['target'], kwargs['command'])
-        result = shell.run(commamd.split())
+        command = "/opsw/bin/rosh -l %s -n %s %s" % (kwargs['target_username'], kwargs['target'], kwargs['command'])
+        print(command)
+        result = shell.run(command.split())
         return result.output
