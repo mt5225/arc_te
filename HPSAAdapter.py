@@ -16,5 +16,5 @@ def run(**kwargs):
     )
     with shell:
         commamd = "/opsw/bin/rosh -l %s -n %s %s" % (kwargs['target_username'], kwargs['target'], kwargs['command'])
-        result = shell.run(commamd)
+        result = shell.run(commamd.split())
         return result.output
